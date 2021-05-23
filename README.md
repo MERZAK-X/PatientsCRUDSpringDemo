@@ -1,7 +1,7 @@
 # Patients CRUD project
 ### This is a Patients CRUD webapp; created using Spring and based on [Pr. Youssfi](https://www.youtube.com/user/mohamedYoussfi/videos) JEE courses.
 
-## Screenshot
+## Screenshots
 
 ![Login](https://user-images.githubusercontent.com/30601926/119258959-d31f6900-bbc3-11eb-9d39-9e4031db6aed.png)
 
