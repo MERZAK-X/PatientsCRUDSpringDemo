@@ -22,11 +22,11 @@ public class Patient {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @NotNull(message = "User's name cannot be empty!")
+    @NotNull(message = "Patient's name cannot be empty!")
     @Size(min = 4, max = 20)
     private String name;
 
-    @NotNull(message = "User's name cannot be empty!")
+    @NotNull(message = "Patient's birthdate cannot be empty !")
     @Temporal(TemporalType.DATE)
     @DateTimeFormat(pattern = "yyyy-MM-dd")
     private Date birthDate;
